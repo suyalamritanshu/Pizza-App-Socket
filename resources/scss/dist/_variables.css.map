@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_variables.scss"],"sourcesContent":["// Colors\r\n$primary: #FE5F1E;\r\n$primary-hover: #b23301;\r\n$secondary: #F8F8F8;\r\n$pure: #fff;\r\n$dark: #232323;\r\n$gray: #ccc;\r\n\r\n// Transition \r\n$smooth: all .3s ease-in-out;"],"file":"_variables.css"}
